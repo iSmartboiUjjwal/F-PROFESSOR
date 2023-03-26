@@ -41,7 +41,7 @@ async def start(client, message):
             InlineKeyboardButton("🌺 𝐀𝐝𝐝 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐠𝐫𝐮𝐩 🌺", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("🔍 𝐒𝐞𝐚𝐫𝐜𝐡 🔍", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("🍊 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🍊", url="https://t.me/mkn_bots_updates")
+            InlineKeyboardButton("🍊 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🍊", url="https://t.me/RadhaSupport")
             ],[      
             InlineKeyboardButton("🍊 𝐇𝐞𝐥𝐩 🍊", callback_data="help"),
             InlineKeyboardButton("🥕 𝐀𝐛𝐨𝐮𝐭 🥕", callback_data="about")
@@ -91,7 +91,7 @@ async def start(client, message):
             InlineKeyboardButton("🌺 𝐀𝐝𝐝 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐠𝐫𝐮𝐩 🌺", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("🔍 𝐒𝐞𝐚𝐫𝐜𝐡 🔍", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("🍊 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🍊", url="https://t.me/mkn_bots_updates")
+            InlineKeyboardButton("🍊 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🍊", url="https://t.me/RadhaSupport")
             ],[      
             InlineKeyboardButton("🍊 𝐇𝐞𝐥𝐩 🍊", callback_data="help"),
             InlineKeyboardButton("🥕 𝐀𝐛𝐨𝐮𝐭 🥕", callback_data="about")
